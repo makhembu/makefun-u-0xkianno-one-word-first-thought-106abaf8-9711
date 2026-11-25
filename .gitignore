@@ -1,4 +1,10 @@
 node_modules/
 out/
+output/
+dist/
+coverage/
+*.log
 .env
+.env.*
 wallet.json
+transcripts.tar.gz
